@@ -1,0 +1,14 @@
+C:\MyProjects\MovieApp\Movie.Core\bin\Debug\net7.0\Movies.Core.deps.json
+C:\MyProjects\MovieApp\Movie.Core\bin\Debug\net7.0\Movies.Core.runtimeconfig.json
+C:\MyProjects\MovieApp\Movie.Core\bin\Debug\net7.0\Movies.Core.dll
+C:\MyProjects\MovieApp\Movie.Core\bin\Debug\net7.0\Movies.Core.pdb
+C:\MyProjects\MovieApp\Movie.Core\obj\Debug\net7.0\Movies.Core.csproj.AssemblyReference.cache
+C:\MyProjects\MovieApp\Movie.Core\obj\Debug\net7.0\Movies.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyProjects\MovieApp\Movie.Core\obj\Debug\net7.0\Movies.Core.AssemblyInfoInputs.cache
+C:\MyProjects\MovieApp\Movie.Core\obj\Debug\net7.0\Movies.Core.AssemblyInfo.cs
+C:\MyProjects\MovieApp\Movie.Core\obj\Debug\net7.0\Movies.Core.csproj.CoreCompileInputs.cache
+C:\MyProjects\MovieApp\Movie.Core\obj\Debug\net7.0\Movies.Core.dll
+C:\MyProjects\MovieApp\Movie.Core\obj\Debug\net7.0\refint\Movies.Core.dll
+C:\MyProjects\MovieApp\Movie.Core\obj\Debug\net7.0\Movies.Core.pdb
+C:\MyProjects\MovieApp\Movie.Core\obj\Debug\net7.0\Movies.Core.genruntimeconfig.cache
+C:\MyProjects\MovieApp\Movie.Core\obj\Debug\net7.0\ref\Movies.Core.dll

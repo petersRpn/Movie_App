@@ -1,0 +1,12 @@
+C:\MyProjects\MovieApp\Movies.Infrastructure\bin\Debug\net7.0\Movies.Infrastructure.deps.json
+C:\MyProjects\MovieApp\Movies.Infrastructure\bin\Debug\net7.0\Movies.Infrastructure.dll
+C:\MyProjects\MovieApp\Movies.Infrastructure\bin\Debug\net7.0\Movies.Infrastructure.pdb
+C:\MyProjects\MovieApp\Movies.Infrastructure\obj\Debug\net7.0\Movies.Infrastructure.csproj.AssemblyReference.cache
+C:\MyProjects\MovieApp\Movies.Infrastructure\obj\Debug\net7.0\Movies.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyProjects\MovieApp\Movies.Infrastructure\obj\Debug\net7.0\Movies.Infrastructure.AssemblyInfoInputs.cache
+C:\MyProjects\MovieApp\Movies.Infrastructure\obj\Debug\net7.0\Movies.Infrastructure.AssemblyInfo.cs
+C:\MyProjects\MovieApp\Movies.Infrastructure\obj\Debug\net7.0\Movies.Infrastructure.csproj.CoreCompileInputs.cache
+C:\MyProjects\MovieApp\Movies.Infrastructure\obj\Debug\net7.0\Movies.Infrastructure.dll
+C:\MyProjects\MovieApp\Movies.Infrastructure\obj\Debug\net7.0\refint\Movies.Infrastructure.dll
+C:\MyProjects\MovieApp\Movies.Infrastructure\obj\Debug\net7.0\Movies.Infrastructure.pdb
+C:\MyProjects\MovieApp\Movies.Infrastructure\obj\Debug\net7.0\ref\Movies.Infrastructure.dll
